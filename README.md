@@ -1,5 +1,5 @@
 # FundamentosDART_210256
-----
+-----
 
 **DESCRIPCIÓN:**
 Proyecto de clase para la unidad 1 de la Asignatura de Desarollo Movil Integral (DMI) impartida por el M.T.I Marco A. Ramirez Hernández 
@@ -17,6 +17,7 @@ Proyecto de clase para la unidad 1 de la Asignatura de Desarollo Movil Integral 
 |7|Listas, Iterables y Conjunto de Dat|9|Finalizada|
 |8|Funciones y Parámetros|11|Finalizada|
 |9|Clases|9|Activa|
+
 
 ## LISTA DE HERRAMIENTAS
 ![DART](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
