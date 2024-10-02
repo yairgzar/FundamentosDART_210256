@@ -17,7 +17,8 @@ Proyecto de clase para la unidad 1 de la Asignatura de Desarollo Movil Integral 
 |7|Listas, Iterables y Conjunto de Dat|9|Finalizada|
 |8|Funciones y Parámetros|11|Finalizada|
 |9|Clase y Sobrescritura de Metodos Nativos|9|Finalizada|
-|10|Constructores Nombrados|8|Finalizada|
+|10|Constructores Nombrados|8|Activa|
+|11|Setters y Getters|9|Activa|
 
 
 ## LISTA DE HERRAMIENTAS
