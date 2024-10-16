@@ -19,9 +19,14 @@ Proyecto de clase para la unidad 1 de la Asignatura de Desarollo Movil Integral 
 |9|Clase y Sobrescritura de Metodos Nativos|9|Finalizada|
 |10|Constructores Nombrados|8|Finalizada|
 |11|Setters y Getters|9|Finalizada|
-|12|Aserciones|3|Activa|
-|13|Abstracciones|11|Activa|
-
+|12|Aserciones|3|Finalizada|
+|13|Abstracciones|11|Finalizada|
+|14|Mixins|11|Finalizada|
+|15|Futures|7|Finalizada|
+|16|Async Await|Pendiente|Activa|
+|17|Try Catch On Finally|Pendiente|Activa|
+|18|Streams|Pendiente|Activa|
+|19|Streams Await|Pendiente|Activa|
 ## LISTA DE HERRAMIENTAS
 ![DART](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
