@@ -23,10 +23,10 @@ Proyecto de clase para la unidad 1 de la Asignatura de Desarollo Movil Integral 
 |13|Abstracciones|11|Finalizada|
 |14|Mixins|11|Finalizada|
 |15|Futures|7|Finalizada|
-|16|Async Await|Pendiente|Activa|
-|17|Try Catch On Finally|Pendiente|Activa|
-|18|Streams|Pendiente|Activa|
-|19|Streams Await|Pendiente|Activa|
+|16|Async Await|5|Activa|
+|17|Try Catch On Finally|6|Activa|
+|18|Streams|7|Activa|
+|19|Streams Await|4|Activa|
 ## LISTA DE HERRAMIENTAS
 ![DART](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
